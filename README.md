@@ -24,11 +24,11 @@ at Ecole 42 Istanbul since 2021.
 ├─▣ Makefile
 ├─▣ Algorithm
 ├─▣ Docker
+├─▣ Debian
 ├─▣ MariaDB
 ├─▣ NGINX
 ├─▣ WordPress
 ├─▣ Docker Compose
-├─▣ Alpine and Debian
 ├─▣ Using Unix signals (Minitalk)
 ├─▣ Virtual machine (Born2beRoot, Inception)
 ├─▣ IT Operations (SSH ports, firewalls, LVM)
