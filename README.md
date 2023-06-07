@@ -1,11 +1,46 @@
 
-
+<pre>
 <h1 align="center">Hi everyone, I'm Aysu Öner </h1>
-<h3 align="center">A passionate back-end developer from Turkey</h3>
+<h3 align="center"> I am a software developer trained from Ecole 42</h3>
 
-For the last 1.5 years, I have been dealing with very valuable C Programming projects at Ecole 42 Istanbul. I did this to solidify my foundation. I'm currently interested in C++ (Object-Oriented Programming) and Docker. I am confident that my dedication and passion for software development will allow me to contribute to a team and continue to grow as a developer. 
+I have been studying software development, especially C and C++ programming languages, at Ecole 42 Istanbul since 2021.
 
--I didn't use github actively as I was working with the corporate GIT repository of Ecole 42 during the my working, now I'm adding all my projects to github.
+
+▰▰▰─────────┤ What Ecole 42 Istanbul has given me ├─────────▰▰▰
+
+┌──┤ Soft Skills ├─────────▰▰▰
+│
+├─▣ Teamwork
+├─▣ Self-learning
+├─▣ Ability to teach
+├─▣ Presentation ability
+├─▣ Time management and planning
+├─▣ Understanding different codes
+├─▣ Ability to explain and defend your own code
+│
+└───────────────────────────────▰▰▰
+
+
+┌──┤ Hard Skills ├─────────▰▰▰
+│
+├─▣ Makefile
+├─▣ Algorithm
+├─▣ ocker
+├─▣ MariaDB
+├─▣ GINX
+├─▣ WordPress
+├─▣ Docker Compose
+├─▣ Alpine and Debian
+├─▣ Using Unix signals (Minitalk)
+├─▣ Virtual machine (Born2beRoot, Inception)
+├─▣ IT Operations (SSH ports, firewalls, LVM )
+├─▣ Basic Unix shell implementation (Minishell)
+├─▣ 2D game (so_long)
+├─▣ 3D game (cub3D that is inspired by the world-famous Wolfenstein 3D game)
+├─▣ Object-oriented programming (CPP modules)
+│
+└───────────────────────────────▰▰▰
+
 
 
 <h3 align="left">Connect with me:</h3>
