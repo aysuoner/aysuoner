@@ -2,7 +2,8 @@
 <h1 align="center">Hi everyone, I'm Aysu Öner</h1>
 <h3 align="center">I am a software developer trained from Ecole 42</h3>
 
-I have been studying software development, especially C and C++ programming languages, at Ecole 42 Istanbul since 2021.
+I have been studying software development, especially C and C++ programming languages,
+at Ecole 42 Istanbul since 2021.
 
 ▰▰▰─────────┤ What Ecole 42 Istanbul has given me ├─────────▰▰▰
 
